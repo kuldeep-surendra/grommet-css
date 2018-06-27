@@ -1,18 +1,18 @@
-# grommet-css
+# grommet-hpe-css
 
 Created to use [grommet](https://github.com/grommet/grommet) with [create-react-app](https://github.com/facebookincubator/create-react-app). Grommet needs `scss` preprocessor and unless you `eject` there is no way to easily use with `create-react-app`.
 
 ## Usage
 ### As is
 ```bash
-npm install grommet-css
+npm install hpe-css-grommet
 # or
-yarn install grommet-css
+yarn install hpe-css-grommet
 ```
 
 in `App.js`
 ```js
-import '../node_modules/grommet-css'
+import '../node_modules/hpe-css-grommet'
 ```
 
 ### Custom
